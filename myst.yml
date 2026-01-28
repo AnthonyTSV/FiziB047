@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 8257fa4a-350a-4d41-8b4b-e0cbf7e3a8a0
+  # title:
+  # description:
+  # keywords: []
+  authors:
+    - name: Antons Cvečkovskis
+    - name: Elīna Neilande
+  github: https://github.com/AnthonyTSV/FiziB047
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  options:
+    favicon: LU_logotips_LAT_mb.png
+    logo: LU_logotips_LAT_mb.png
